@@ -1,7 +1,7 @@
 # Kait.engine 
 
 # Terms and Conditions
-The terms and conditions are detailed in [this page](). A quick Summary:
+The terms and conditions are detailed in [this page](terms.md). A quick Summary:
 
 * By using the app or communicating with any of the accounts managed by kait.engine, you are accepting the present terms, conditions and privacy policy (as defined below).
 * Kain.engine is a marketing engine, our purpose is to sell you stuff.
@@ -9,7 +9,7 @@ The terms and conditions are detailed in [this page](). A quick Summary:
 * If we are doing our job right, we are sure you will feel satisfied and will come back. That is our business strategy: happy customers.
 
 # Privacy Policy
-The detailed privacy policy can be found [here](). 
+The detailed privacy policy can be found [here](privacy.md). 
 
 What info do ge gather about you:
 * Contact info. We collect, store, and try to keep up to date the relevant info required to contact you back, and identify you when you reach back to us.
