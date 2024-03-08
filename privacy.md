@@ -5,7 +5,7 @@ Updated: 2024-March-08
 
 Welcome to kait.engine's Privacy Policy. Your privacy is important to us, and we are committed to protecting the information you share with us. This policy outlines the types of information we collect, how we use it, and our commitment to maintaining the confidentiality and security of your data.
 
-# **1. Information We Collect**
+## **1. Information We Collect**
 
 a. **Contact Information:** We collect, store, and maintain relevant contact information necessary to communicate with you and identify you when you engage with our services.
 
