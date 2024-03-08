@@ -25,6 +25,6 @@ Annonimized information and statistics
 * BUT we do not store, keep, or record this information in any way associated to you, your profile, or in any way that might help an analyst track the information back to you. Stats are fully annonimized and collected grupally.
 * We keep record of the conversations held thrughout our chat systems so we can improve such systems and offer a better service. Just as stats, conversations are stored annonimized, all personally identifiable information redacted out by algorithms before storage.
 
-You won your data:
+You own your data:
 * All information we store that is tied to you (personally identifiable information) belongs to you.
-* You can contact us at any time to request a copy and/or removal of your information
+* You can contact us at any time to request a copy, correction, and/or removal of your information
