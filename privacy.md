@@ -1,6 +1,7 @@
 # **Privacy Policy**
 
-Effective Date: 2024-Jan-19
+Version: 1.1
+Updated: 2024-March-08
 
 Welcome to kait.engine's Privacy Policy. Your privacy is important to us, and we are committed to protecting the information you share with us. This policy outlines the types of information we collect, how we use it, and our commitment to maintaining the confidentiality and security of your data.
 
@@ -56,11 +57,19 @@ b. **Anonymous Storage:** While we collect statistical information, we do not st
 
 c. **Anonymized Conversations:** We keep records of conversations held through our chat systems for the purpose of system improvement and better service. Conversations are stored in an anonymized manner, with all personally identifiable information redacted by algorithms before storage.
 
-## **4. Changes to Privacy Policy**
+## **4. Your information is yours**
+For all and any personally identifiable information we store you can:
+a. **Get a copy:** You can request a copy of all or part of your information.
+b. **Rectify:** You can request rectification over the data we store about you.
+c. **Removal:** You can request removal of all the information that is stored. All information and accounts tied to you will be deleted from our systems. Some annonymized conversations might remain in our system after removal, as we cannot tie those back to you in any way.
+
+We might take some time to process this requests, as our resources are limited. We will respond with an estimate as soon as your data handling request is received.
+
+## **5. Changes to Privacy Policy**
 
 kait.engine reserves the right to modify, update, or otherwise change this Privacy Policy at any time without prior notice. It is your responsibility to review this policy periodically for any changes.
 
-## **5. Contact Information**
+## **6. Contact Information**
 
 If you have any questions, concerns, or requests regarding your privacy or this Privacy Policy, please contact us at kaitserver@gmail.com.
 
