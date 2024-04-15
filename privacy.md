@@ -1,5 +1,9 @@
 # **Privacy Policy**
 
+og:
+  image: https://images.app.goo.gl/gdMr2aPAjB7pcgkj7
+
+
 Version: 1.1
 Updated: 2024-March-08
 
